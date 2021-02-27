@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "NODE_ENV=development",
-    "start:dev": "NODE_ENV=development nodemon ."
+    "start": "index.js nodemon"
   },
   "author": "Daniyal Sadiq",
   "license": "ISC",
